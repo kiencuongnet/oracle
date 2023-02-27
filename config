@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa22wj54ydwvimk5ccajylresxhrhl2ffv3qusbe7sfvjhb3uhy7tq
+fingerprint=58:9a:fa:de:99:f7:88:ee:c2:d2:52:a2:3d:ec:98:04
+tenancy=ocid1.tenancy.oc1..aaaaaaaatv4kxf2icshckiiumqtk4ofovkwoo4cv4lhpitxwfkppg6xcefxq
+region=ap-tokyo-1
+key_file=oci_private_key.pem
