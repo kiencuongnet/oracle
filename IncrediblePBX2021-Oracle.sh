@@ -191,9 +191,9 @@ chmod +x /tmp/mysql-setup
 /tmp/mysql-setup
 cd /usr/src
 wget http://incrediblepbx.com/dahdi-linux-complete-2.11.1+2.11.1-SGM-20191120.tar.gz
-wget http://downloads.asterisk.org/pub/telephony/libpri/libpri-current.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/libpri/libpri-1.6.1.tar.gz
 tar zxvf dahdi-linux-complete*.tar.gz
-tar zxvf libpri-current.tar.gz
+tar zxvf libpri-1.6.1.tar.gz
 if [[ "$ASTVER" = "18" ]]; then
 # wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-18-current.tar.gz
  wget http://downloads.asterisk.org/pub/telephony/asterisk/old-releases/asterisk-18.13.0.tar.gz
